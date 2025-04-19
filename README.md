@@ -6,6 +6,8 @@ apt install nodejs -y
 
 npm install axios
 
+node-telegram-bot-api
+
 git clone https://github.com/VPSHOZOO/BOT
 
 cd BOT
