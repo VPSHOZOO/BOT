@@ -14,4 +14,4 @@ git clone https://github.com/VPSHOZOO/BOT
 
 cd BOT
 
-node hozoo.js
+node main.js
